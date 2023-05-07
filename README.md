@@ -32,7 +32,7 @@ bash build.sh
 输出文件在`target`目录下
 
 
-### 运行
+## 运行
 
 解压之后执行（内置数据库、前后端不分离）
 ```
@@ -53,6 +53,3 @@ MacBook-Pro root$ ./server
 
 + 访问 `https://localhost:8088/rasp-admin` （浏览器信任证书）
 + 账号和密码： admin 123456
-
-## 替换证书（非必须）
-
